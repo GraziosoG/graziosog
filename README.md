@@ -1,10 +1,16 @@
-### Hi there 👋
+## Hello there 👋
+
+I love learning and brushing up my programming skills 💪. 
+
+I am passionate about creating my own web-solutions to solve problems, help others and improve our lives :heart:.
+
+🔭 I’m currently working [game-mochila](https://graziosog.github.io/game-mochila/), that has two small family games, **Word Assembly** and **LocateMe**. 
+
+🌱 I’m currently learning web development with a strong focus on React and Node.js. 
+
+⚡ Fun fact: I eat an :apple: every day and I like Christmas :christmas_tree:! 
 
 <!--
-**GraziosoG/graziosog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,5 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
