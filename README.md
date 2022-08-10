@@ -1,4 +1,4 @@
-## Hello there 👋
+### Hello there 👋
 
 I love learning and brushing up my programming skills 💪. 
 
